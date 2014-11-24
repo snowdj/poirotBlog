@@ -1,8 +1,8 @@
 mode     : selfcontained
 framework: purus
 github:
-  user: ramnathv
-  repo: poirot
+  user: snowdj
+  repo: poirotBlog
 
 # HIGHLIGHTER SETTINGS
 highlighter: prettify
@@ -13,7 +13,7 @@ prettify:
 # WIDGETS
 widgets: [disqus, mathjax]
 disqus:
-  shortname: slidify
+  shortname: snowdj
 
 
 
